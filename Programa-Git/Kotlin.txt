@@ -3,3 +3,6 @@
 Nombre del usuario GitHub: Nataly-Giraldo
 Correo del usuario GitHub: laugiraldo0520@gmail.com
 Ficha: 2522001
+
+# Alización de datos 
+Nombre del tecnologo: Análisis y desarrollo del software
